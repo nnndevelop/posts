@@ -1,0 +1,42 @@
+.item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 15%;
+    border-bottom: 1px solid teal;
+
+}
+
+.itemBtn {
+    display: flex;
+    margin-right: 1rem;
+    justify-content: center;
+    align-items: center;
+    width: 15%;
+    height: 60px;
+}
+.bi{
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+.di {
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+h1 {
+    font-size: 20px;
+    padding: 0 10px;
+}
+.title {
+    width: 70%;
+    font-size: 1.2rem;
+}
+.itemEmoji{
+    font-size: 25px;
+    border-radius: 50%;
+    box-shadow: 0 19px 38px rgba(0, 0, 0, .3), 0 15px 12px  rgba(0, 0, 0, .1);
+    
+
+}
